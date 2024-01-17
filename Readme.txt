@@ -34,4 +34,4 @@ Resources:
 
 Project tutorial video: https://m.youtube.com/watch?v=zohXXZBUVYI
 Firebase documentation: https://firebase.google.com/docs
-I hope this readme helps you get started with building your own socia
+I hope this readme helps you get started with building your own social APP
